@@ -1,0 +1,9 @@
+com/crossengage/App.class
+com/crossengage/exception/InvalidUserException.class
+com/crossengage/repository/UserRepository.class
+com/crossengage/model/ContactType.class
+com/crossengage/dispatch/MessageDispatcher.class
+com/crossengage/exception/InvalidUserEmailAddress.class
+com/crossengage/dispatch/Email.class
+com/crossengage/model/User.class
+com/crossengage/dispatch/Phone.class
